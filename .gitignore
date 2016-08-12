@@ -1,0 +1,5 @@
+# Compiled gem
+*.gem
+
+# vim swap files
+.*.swp
